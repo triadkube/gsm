@@ -73,10 +73,12 @@ padding: 0px;
 }
 
 .button {
+	padding: 20px;
+	border-radius: 5px;
+	border: 2px solid blue;
 	position: relative;
 	width: 30%;
 	margin: 10px auto;
-	height: 231px;
 	overflow: hidden;
 }
 
@@ -89,9 +91,4 @@ padding: 0px;
 	text-align: center;
 	position: relative;
 	bottom: 0px;
-}
-
-.button:hover p{
-	transform: scale(1.1); ;
-
 }
