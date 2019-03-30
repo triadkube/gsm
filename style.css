@@ -5,13 +5,18 @@ padding: 0px;
 }
 
 .photoslide{
-	width: 100vw;
+	width: 100%;
 	height: auto;
-	display: flex;
-	align-items: space-around;
+	display:table;
 }
 
 #thumb{
+	margin-right: 10px;
 	    width: 262px;
     height: 174px;
+        border-collapse: separate;
+    border-spacing: 2px;
+
 }
+
+
