@@ -12,11 +12,17 @@ padding: 0px;
 
 #thumb{
 	margin-right: 10px;
+	margin-bottom: 8px;
 	    width: 262px;
     height: 174px;
         border-collapse: separate;
     border-spacing: 2px;
 
+}
+
+.carousal{
+	width: 80%;
+	margin: auto;
 }
 
 
