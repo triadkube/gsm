@@ -8,6 +8,8 @@ padding: 0px;
 	width: 100%;
 	height: auto;
 	display:table;
+	margin-left: 260px;
+	margin-right: 430px;
 }
 
 #thumb{
@@ -18,11 +20,16 @@ padding: 0px;
         border-collapse: separate;
     border-spacing: 2px;
 
+
 }
 
 .carousal{
-	width: 80%;
+	width: 60%;
 	margin: auto;
 }
 
+.intro{
+	margin-left: 260px;
+	margin-right: 230px;
+}
 
