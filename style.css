@@ -65,3 +65,30 @@ padding: 0px;
 	width: 70%;
 }
 
+.button-container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.button {
+	padding: 20px;
+	border-radius: 5px;
+	border: 2px solid blue;
+	position: relative;
+	width: 30%;
+	margin: 10px auto;
+	overflow: hidden;
+}
+
+.button img {
+	position: relative;
+	width: 100%;
+}
+
+.button p {
+	text-align: center;
+	position: relative;
+	bottom: 0px;
+}
