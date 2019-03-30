@@ -35,16 +35,16 @@ padding: 0px;
 }
 
 .photoslide{
-	width: 100%;
+	width: 70%;
 	height: auto;
-	display:table;
-	margin-left: 260px;
-	margin-right: 430px;
+	display:flex;
+	margin: 20px auto; 
+	flex-wrap: wrap;
 }
 
 #thumb{
-	margin-right: 10px;
-	margin-bottom: 8px;
+	margin: 10px;
+	flex: 1;
 	    width: 262px;
     height: 174px;
         border-collapse: separate;
@@ -56,14 +56,11 @@ padding: 0px;
 .carousal{
 	width: 60%;
 	margin: auto;
+	margin-bottom: 50px;
 }
-<<<<<<< HEAD
-=======
 
 .intro{
-	margin-left: 260px;
-	margin-right: 230px;
+	margin: 0px auto;
+	margin-bottom: 50px;
+	width: 70%;
 }
-
->>>>>>> 9dda225e99850dbaad55bf156e643c5c12738421
->>>>>>> d4e2d763ec500e554032c622cba5a8cfed7fcc19
