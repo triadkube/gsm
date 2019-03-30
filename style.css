@@ -1,9 +1,40 @@
 body{
-
 margin: 0px;
 padding: 0px;
 }
 
+<<<<<<< HEAD
+.header {
+	width: 100%;
+	font-size: 48px;
+	padding-bottom: 25px;
+	margin-bottom: 50px;
+	border-bottom: 5px solid green;
+}
+
+.header:after {
+	width: 100%;
+	display: block;
+	border-bottom: 5px solid blue;
+	height: inherit;
+}
+
+.title {
+	width: 100%;
+	text-align: center;
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+}
+
+.logo img {
+	height: auto;
+	width: 100px;
+	margin: 0px auto;
+}
+=======
 .photoslide{
 	width: 100%;
 	height: auto;
@@ -33,3 +64,4 @@ padding: 0px;
 	margin-right: 230px;
 }
 
+>>>>>>> 9dda225e99850dbaad55bf156e643c5c12738421
