@@ -3,3 +3,15 @@ body{
 margin: 0px;
 padding: 0px;
 }
+
+.photoslide{
+	width: 100vw;
+	height: auto;
+	display: flex;
+	align-items: space-around;
+}
+
+#thumb{
+	    width: 262px;
+    height: 174px;
+}
