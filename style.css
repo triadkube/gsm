@@ -3,7 +3,10 @@ margin: 0px;
 padding: 0px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4252be4c5826826cd8521c8bac67949c107fd1be
 .header {
 	width: 100%;
 	font-size: 48px;
@@ -36,16 +39,16 @@ padding: 0px;
 }
 
 .photoslide{
-	width: 100%;
+	width: 70%;
 	height: auto;
-	display:table;
-	margin-left: 260px;
-	margin-right: 430px;
+	display:flex;
+	margin: 20px auto; 
+	flex-wrap: wrap;
 }
 
 #thumb{
-	margin-right: 10px;
-	margin-bottom: 8px;
+	margin: 10px;
+	flex: 1;
 	    width: 262px;
     height: 174px;
         border-collapse: separate;
@@ -57,10 +60,15 @@ padding: 0px;
 .carousal{
 	width: 60%;
 	margin: auto;
+	margin-bottom: 50px;
 }
 
 .intro{
-	margin-left: 260px;
-	margin-right: 230px;
+	margin: 0px auto;
+	margin-bottom: 50px;
+	width: 70%;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4252be4c5826826cd8521c8bac67949c107fd1be
