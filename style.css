@@ -3,11 +3,63 @@ margin: 0px;
 padding: 0px;
 }
 
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+#con{
+	margin: 50px 100px;
+	padding: 50px 30px;
+	border: 3px solid lightblue;
+
+}
+
+#form{
+	margin:50px auto;
+	width: 70%;
+}
+.gallery{
+	margin-top:-95px;
+	display: flex; 
+
+}
+
+.gallery h2 {
+	padding: 20px;
+	font-family: 'Righteous', cursive;
+	background-color:white;
+}
+
+.tab{
+	width: 95%;
+	margin: 0px auto;
+}
+
 .header {
 	width: 100%;
 	font-size: 48px;
 	padding-bottom: 25px;
 	border-bottom: 5px solid green;
+}
+
+.card-body{
+	overflow-y:scroll;
+	height: 380px; 
+}
+
+#zero{
+	text-decoration: none;
+
+}
+#two{
+	text-decoration: none;
+}
+#three{
+	text-decoration: none;
 }
 
 .header:after {
