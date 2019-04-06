@@ -4,7 +4,12 @@ padding: 0px;
 }
 
 
+.sub{
+	margin-left: 59%;
+	font-size: 1.3vw;
+	margin-top: -14px; 
 
+}
 #con{
 	margin: 50px 100px;
 	padding: 50px 30px;
